@@ -4,6 +4,7 @@
     "start": "tkserver"
   },
   "dependencies": {
-    "tkserver": "^1.6.16"
+    "tkserver": "^1.6.16",
+    "twikoo": "1.6.16"
   }
 }
